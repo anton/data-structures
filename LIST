@@ -1,0 +1,16 @@
+List Operations
+The main primitive operations of a list are known as:
+* Add - adds a new node
+* Set - updates the contents of a node
+* Remove - removes a node
+* Get - returns the value at a specified index
+* IndexOf - returns the index in the list of a specified element
+
+Additional primitives can be defined:
+* IsEmpty - reports whether the list is empty
+* IsFull - reports whether the list is full
+* Initialise - creates/initialises the list
+* Destroy - deletes the contents of the list (may be implemented by
+	    re-initialising the list)
+
+Source: http://hamilton.bell.ac.uk/swdev2/notes/notes_14.pdf

@@ -9,3 +9,10 @@ http://en.wikipedia.org/wiki/Linked_list
 
 Other stuff that I might take a look at is circular buffer, binary search and
 binary tree.
+
+Time complexity compared for Linked List, Array and Dynamic Array:
+				L.L.	Array   D.A.
+Indexing			O(n)	O(1)	O(1)
+Insertion/deletion at end	O(1)	N/A	O(1)
+Insertion/deletion in middle    O(1)    N/A	O(n)
+Wasted space (average)		O(n)    0	O(n)

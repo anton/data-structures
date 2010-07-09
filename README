@@ -3,3 +3,9 @@ Implementation of common data structures in C for fun and profit.
 The purpose of this repository is just to keep the knowledge of common data
 structures fresh. I am very grateful if you send me comments or patches if you
 see something that is noteworthy.
+
+I am starting out with linked list.
+http://en.wikipedia.org/wiki/Linked_list
+
+Other stuff that I might take a look at is circular buffer, binary search and
+binary tree.
